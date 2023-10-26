@@ -7,3 +7,6 @@ class BookinRepository extends CrudRepository{
         super(Booking);
     }
 }
+
+
+module.exports= BookinRepository;
